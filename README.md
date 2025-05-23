@@ -15,7 +15,7 @@ R= Basicamente o controle de versão é uma prática que rastreia e gerencia as 
 GIT
 Subversion (SVN)
 Concurrent
-Mercurial
+Mercurialgit 
 
 Desafio 2 
 
